@@ -1,6 +1,6 @@
 # Hi, I'm Namrata Sahani 
 
-B.Tech CSE 2029 |  Gorakhpur 
+B.Tech CSE 2029 |  Gorakhpur | 
 DSA  |  Python  |  C++  |  OS  |  MML
 Gorakhpur, UP, India
 
